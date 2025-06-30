@@ -1,4 +1,4 @@
-# MyLifePictures.ai 🎨✨
+# MyLifePhotos.ai 🎨✨
 
 > **Award-Winning AI-Powered Slideshow for Elderly Care**  
 > *Voice-controlled photo memories with compassionate AI assistance*
@@ -404,5 +404,6 @@ Built with ❤️ for elderly users and their families.
 
 *"Technology should adapt to people, not the other way around. MyLifePictures.ai proves that AI can be both powerful and compassionate."*
 
-**Ready to transform how families share memories? Let's make technology work for everyone, regardless of age.**#   M y L i f e P h o t o s  
+**Ready to transform how families share memories? Let's make technology work for everyone, regardless of age.**#   M y L i f e P h o t o s 
+ 
  
